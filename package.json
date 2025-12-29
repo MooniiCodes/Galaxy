@@ -1,0 +1,15 @@
+{
+  "name": "galaxy",
+  "version": "1.0.0",
+  "description": "The way to make games.",
+  "license": "MIT",
+  "author": "Moonii Co.",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "live-server --open=src/"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
